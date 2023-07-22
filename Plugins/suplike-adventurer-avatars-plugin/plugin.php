@@ -1,6 +1,6 @@
 <?php
 
-namespace Bethropolis\PluginSystem\IconzPlugin;
+namespace Bethropolis\PluginSystem\AdventurerPlugin;
 
 use Bethropolis\PluginSystem\Plugin;
 
