@@ -1,0 +1,11 @@
+{
+    "id": "Adventurer",
+    "name": "Adventurer avatars",
+    "version": "1.0",
+    "description": "A plugin for Adventurer by Lisa Wischofsky profile avatars using DiceBear.",
+    "author": {
+        "name": "Bethropolis",
+        "url": "https://bethropolis.github.io" 
+    },
+    "gitlab": "https://gitlab.com/bethropolis/suplike-adventurer-avatars-plugin"
+}
