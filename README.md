@@ -20,7 +20,7 @@ The marketplace option in the admin dashboard basically make a request to the ra
 
 ### How to make a plugin
 
-you can check the [how-to-make-plugin.md](https://github.com/bethropolis/suplike-plugins/blob/main/How-to-make-plugin.md) file.
+you can check the [how-to-make-plugin.md](How-to-make-plugin.md) file.
 
 Or you can learn more from the [plugin system](https://github.com/bethropolis/plugin-system) used itself.
 
