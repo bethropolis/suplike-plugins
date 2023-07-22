@@ -19,6 +19,7 @@
  ```
 
 3. the `plugin.php` structure should be
+
 ```php
 
 <?php
