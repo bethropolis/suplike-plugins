@@ -1,14 +1,14 @@
 [
-{
-    "id": "Adventurer",
-    "name": "Adventurer avatars",
-    "version": "1.0",
-    "description": "A plugin for Adventurer by Lisa Wischofsky profile avatars using DiceBear.",
-    "author": {
-        "name": "Bethropolis",
-        "url": "https://bethropolis.github.io" 
-    },
-    "github": "https://github.com/bethropolis/suplike-adventurer-avatars-plugin"
-    "install_url": "https://github.com/bethropolis/suplike-adventurer-avatars-plugin/releases/download/1.0.0/avatars.zip"
-}
+    {
+        "id": "Adventurer",
+        "name": "Adventurer avatars",
+        "version": "1.0",
+        "description": "A plugin for Adventurer by Lisa Wischofsky profile avatars using DiceBear.",
+        "author": {
+            "name": "Bethropolis",
+            "url": "https://bethropolis.github.io"
+        },
+        "github": "https://github.com/bethropolis/suplike-adventurer-avatars-plugin",
+        "install_url": "https://github.com/bethropolis/suplike-plugins/releases/download/1.0.1/adventurer.zip"
+    }
 ]
