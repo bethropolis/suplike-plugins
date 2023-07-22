@@ -20,6 +20,7 @@
 
 3. the `plugin.php` structure should be
 ```php
+
 <?php
 namespace  Bethropolis\PluginSystem\{folder-name}Plugin;
 
@@ -41,7 +42,9 @@ class  Load  extends  Plugin
  }
 }
 
-# this is just a template, you can modify it to do so much more
+// this is just a template, you can modify it to do so much more
+
+
 ```
 
 4. create an archive of your plugin (mostly .zip is preferred ) and upload it to a github/gitlab release or any other service. don't forget to include it to your `install_url` in your `plugin.json` file.
